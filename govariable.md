@@ -20,3 +20,19 @@ func main(){
     fmt.println("num1")
     fmt.println("num2")
 }
+
+
+# multiple variable declaration
+
+package main
+import "fmt"
+func main() {
+    var a, b, c, d int = 1, 2, 3, 4,
+
+    fmt.println("a")
+    .....
+    .....
+    .....
+    .....
+    
+}
